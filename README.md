@@ -22,19 +22,19 @@ Sitio web estático para un blog de café con información sobre cursos, recetas
 
 ![alt text](img/readme/image-4.png)
 
-## Características
-
-- Diseño totalmente responsive
-- Maquetación con Flexbox y Grid
-- Blog con entradas dinámicas (estructura)
-- Página de cursos
-- Página de contacto con formulario
-- Optimización con normalize.css, preload y prefetch
-- Imágenes en .webp y .jpg para mejorar performance.
-- Efectos hover y animaciones suaves
-
 ## Tecnologías
+
 - HTML5
 - CSS3 (Flexbox, Grid)
 - Modernizr
 - Responsive Design
+
+## Características
+
+- Diseño responsive.
+- Blog con entradas dinámicas.
+- Página de cursos.
+- Página de contacto con formulario.
+- Optimización con preload y prefetch.
+- Imágenes en .webp y .jpg para mejorar performance.
+- Efectos hover y animaciones suaves.
