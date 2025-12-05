@@ -6,11 +6,19 @@ Sitio web estático para un blog de café con información sobre cursos, recetas
 
 ## Vista previa
 
-![alt text](img/readme/image-1.png)
+### Página principal
+
+![Página principal del Blog de Café](img/readme/image-1.png)
+
+### Página de cursos ofertados
 
 ![alt text](img/readme/image-3.png)
 
+
+### Página de contacto
 ![alt text](img/readme/image-7.png)
+
+### Página principal en móvil
 
 ![alt text](img/readme/image-4.png)
 
