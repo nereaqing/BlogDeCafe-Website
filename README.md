@@ -6,6 +6,13 @@ Sitio web estático para un blog de café con información sobre cursos, recetas
 
 ## Vista previa
 
+![alt text](img/readme/image-1.png)
+
+![alt text](img/readme/image-3.png)
+
+![alt text](img/readme/image-7.png)
+
+![alt text](img/readme/image-4.png)
 
 ## Características
 
